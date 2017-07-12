@@ -1,4 +1,3 @@
 # run_jar
 
-TODO: Enter the cookbook description here.
-
+Cookbook to run jar file from Powershell.
